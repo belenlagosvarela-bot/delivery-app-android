@@ -6,5 +6,7 @@
 - Almacenamiento en Realtime Database
 
 ## Capturas
-![Login](screenshots/login.png)
-![Menú](screenshots/menu.png)
+![Login](login.png)
+![Menú](menu.png)
+![Firebase Auth](firebase-authentication.png)
+![Firebase Database](firebase-database.png)
